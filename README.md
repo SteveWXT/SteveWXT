@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SteveWXT, a student at Beijing University of Posts and Telecommunication
-- 👀 I’m interested in self learning and computer science
+- 👀 I’m interested in distributed system, especially blockchain.
 - 📫 How to reach me: wangxiaotian@bupt.edu.cn
 
 <!---
