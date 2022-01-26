@@ -4,7 +4,7 @@
 
 <a href="https://github.com/SteveWXT">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SteveWXT&show_icons=true&theme=onedark&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteveWXT&layout=compact&hide=javascript,html&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteveWXT&layout=compact&hide=Makefile,CSS,scheme,html&langs_count=8" />
 </a>
 
 <!---
