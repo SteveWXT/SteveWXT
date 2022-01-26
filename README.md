@@ -2,9 +2,10 @@
 - 👀 I’m interested in distributed systems, especially blockchain.
 - 📫 How to reach me: wangxiaotian@bupt.edu.cn
 
-[![SteveWXT's GitHub stats](https://github-readme-stats.vercel.app/api?username=SteveWXT&show_icons=true&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteveWXT&layout=compact&hide=javascript,html&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/SteveWXT">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SteveWXT&show_icons=true&theme=onedark&count_private=true" />
+  <img height="180em" src="github-readme-stats.vercel.app/api/top-langs/?username=SteveWXT&layout=compact&hide=javascript,html&langs_count=8" />
+</a>
 
 <!---
 SteveWXT/SteveWXT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
